@@ -6,3 +6,7 @@ This is a project inspired by [@visakanv](https://twitter.com/visakanv) (e.g. se
 
 Progress will be documented in this repo.
 
+## Song list
+
+1. City of Stars - [Youtube](https://youtu.be/l2XC_ZchIhs)
+
